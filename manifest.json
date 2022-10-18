@@ -9,22 +9,7 @@
       "url": "url"
     }
   },
-"shortcuts": [
-    {
-      "name": "How's weather today?",
-      "short_name": "Today",
-      "description": "View weather information for today",
-      "url": "/today?source=pwa",
-      "icons": "src": "vivek.png",
-    },
-    {
-      "name": "How's weather tomorrow?",
-      "short_name": "Tomorrow",
-      "description": "View weather information for tomorrow",
-      "url": "/tomorrow?source=pwa",
-      "icons": "src": "/images/tomorrow.png",
-    }
-  ],
+
 	"display": "standalone",
 	"start_url": "",
 	"scope": ".",
@@ -83,4 +68,15 @@
             "purpose": "maskable"
         }
 	]
+
+"shortcuts": [
+    {
+      "name": "How's weather today?",
+      "short_name": "Today",
+      "description": "View weather information for today",
+      "url": "/today?source=pwa",
+      "icons": "src": "vivek.png",
+    },
+    
+  ],
 }

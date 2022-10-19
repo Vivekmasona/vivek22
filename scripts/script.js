@@ -1,11 +1,11 @@
-api = "AIzaSyDf-TCgD54NNSlg_PbqeJyhXWhn0B4WBzw";
+api = "AIzaSyCbn2fAWsEvw6TyD4PsfNchyK35rN69jH0";
 base_url = "https://ytqck.github.io/play";
 id = "";
 dataThere = "";
 nextV = "a";
 /*firebase*/
 var config = {
-    apiKey: "AIzaSyBeQ2coh5c3F8pSxCE-cl-_HWSzx69_qkI",
+    apiKey: "AIzaSyCbn2fAWsEvw6TyD4PsfNchyK35rN69jH0",
     authDomain: "ytqck-8a43d.firebaseapp.com",
     databaseURL: "https://ytqck-8a43d.firebaseio.com",
     storageBucket: "ytqck-8a43d.appspot.com",

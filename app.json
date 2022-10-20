@@ -1,8 +1,8 @@
 {
-  "name": "Youtube downloader",
-  "description": "This is a youtube downloader. Made of flask and yt-dlp.",
-  "author": "Abhijith N T",
-  "repository": "https://github.com/abhint/youtube-downloader",
+  "name": "ytdl",
+  "description": "This is a youtube downloader.",
+  "author": "pahilagana",
+  "repository": "https://PahilaGana.xyz",
   "keywords": ["youtube-downloader", "python", "flask", "yt-dlp"],
   "buildpacks": [
     {

@@ -19,7 +19,7 @@
         <div class="container">
             <div class="row height d-flex justify-content-center align-items-center">
                 <div class="list-group">
-                    <h1 class="h1">youtube downloader</h1>
+                    <h1 class="h1">PGytdl</h1>
                     <div class="input-group">
                         <input class="form-control" type="url" name="youtube_url" id="youtube_url" required>
                         <div class="input-group-append">
@@ -81,28 +81,11 @@
             {%endfor%}
         </table>
     </div>
-    <div class="container">
-        <h2>Audio</h2>
-        <table class="table table-borderless">
-            <tr>
-                <th scope="col">Quality</th>
-                <th scope="col">Format</th>
-                <th scope="col">Download Link</th>
-            </tr>
-            <!-- For loop logic of jinja template -->
-            {%for audio in audio_dict%}
-            <tr>
-                <th>{{audio['format_note']}}</th>
-                <th>{{audio['audio_ext']}}</th>
-                <th><a class="btn btn-danger" href="{{audio['url']}}}" download>Download</a></th>
-            </tr>
-            {%endfor%}
-        </table>
-    </div>
+    
     <footer class="flex-shrink-0 py-4 bg-dark text-white-50">
         <div class="container text-center">
             Made <i style="color: #dc3545;" class="bi bi-heart-fill"></i> with by <a style="font-weight: 900;"
-                href="https://github.com/abhint">Abhijith</a>
+                href="https://PahilaGana.xyz">PahilaGana</a>
         </div>
 
     </footer>
